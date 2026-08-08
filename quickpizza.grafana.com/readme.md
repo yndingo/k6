@@ -32,7 +32,7 @@ k6 run script.js
 3. основная проблема идет при авторизации 50% запросов авторизации выдали ошибку, остальные запросы выполнились успешно
 4. основное время выполнения идет при авторизации, после авторизации, для других запросов время ответа уменьшается
 
-[Test report. All requests](Test_Results/rambler_report.csv)
+[Основной отчет сгегенирован K6](Test_Results/report.html)
 
 [Test report. All errors](Test_Results/rambler_errors.xml)
 
