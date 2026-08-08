@@ -33,8 +33,7 @@ k6 run script.js
 4. основное время выполнения идет при авторизации, после авторизации, для других запросов время ответа уменьшается
 
 [Основной отчет сгегенирован K6](Test_Results/report.html)
-
-[Test report. All errors](Test_Results/rambler_errors.xml)
+Для просмотра сохранить локально как report.html и открыть в браузере
 
 ![Aggregate Report](Test_Results/1.aggregate_report.png?raw=true "Title")
 
