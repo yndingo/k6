@@ -35,13 +35,17 @@ k6 run script.js
 [Основной отчет сгегенирован K6](Test_Results/report.html)
 Для просмотра сохранить локально как report.html и открыть в браузере
 
-![Aggregate Report](Test_Results/1.aggregate_report.png?raw=true "Title")
+Результаты анализа через фидлер
+![Результаты анализа через фидлер](Test_Results/fiddler.png?raw=true "Title")
 
-Here we can see how many transactions per second are done in lapse of time
-![Transactions per second](Test_Results/2.transactions_per_second.png?raw=true "Title")
+Результаты локального запуска к6 - 1
+![Результаты локального запуска к6 - 1](Test_Results/k6-1.png?raw=true "Title")
 
-Here we can see responses in lapse of time
-![Response times over time](Test_Results/3.response_times_over_time.png?raw=true "Title")
+Результаты локального запуска к6 - 2
+![Результаты локального запуска к6 - 2](Test_Results/k6-2.png?raw=true "Title")
 
-Here we can see active users in lapse of time
-![Active threads over time](Test_Results/4.active_threads_over_time.png?raw=true "Title")
+Результаты локального запуска к6 - 3
+![Результаты локального запуска к6 - 3](Test_Results/k6-3.png?raw=true "Title")
+
+Отчет, который сгенерировал к6
+![Отчет, который сгенерировал к6](Test_Results/k6-4.png?raw=true "Title")
